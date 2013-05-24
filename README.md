@@ -1,6 +1,6 @@
-Laravel form validation
-=======================
+Laravel3 form validation
+========================
 
 Spanish form validation for Laravel 3
 
-Validación de formularios de laravel 3 en Español
+- Copy ES folder into application/language
